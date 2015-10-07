@@ -1,4 +1,5 @@
 public class Welcome {
 	Long id = 0L;
-	String name = "Name";
+	String description = "Descr";
+	String name = "SecName"
 }
